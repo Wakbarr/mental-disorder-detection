@@ -16,7 +16,6 @@ Muhammad Lutfi A. G. | Nabilatul Hapidoh | Rayhan Dhafi | Akbar Widianto
 Proyek ini adalah tentang pendeteksian dini gangguan kesehatan mental yang dialami oleh pengguna. Data yang digunakan diambil dari dataset yang didapatkan dari forum Kaggle. Proyek ini juga merupakan impresi awal dari proyek chatbot yang akan dibuat kedepannya.
 
 ## Struktur Repositori
-``bash
 └── macro-project-mental-disorder-detection/
     ├── README.md
     └── notebook
@@ -26,8 +25,6 @@ Proyek ini adalah tentang pendeteksian dini gangguan kesehatan mental yang diala
         └── mental_health_disorder_symptoms_ver2.csv
 
 ## Library
-``bash
-
 Proyek ini menggunakan librari python berikut:
 
 - Pandas
@@ -45,7 +42,6 @@ Memulai Program
 Kebutuhan
 
 ## Pastikan telah meng-install kebutuhan berikut:
-``bash
 Python: versi 3.10.
 Jupyter Notebook
 Pandas
@@ -56,7 +52,6 @@ Matploblib
 Seaborn
 
 ## Kontribusi
-``bash
 Berikut ada role dari kelompok 15:
 
 Muhammad Lutfi Amin Ghifarullah: Machine Learning Engineer
@@ -65,7 +60,6 @@ Rayhan Dhafi: Design Researcher
 Akbar Widianto: Machine Learning Operations
 
 ## Ucapan Terima Kasih
-``bash
 Allah SWT.
 Orang Tua
 Arifian Saputra
