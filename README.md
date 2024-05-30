@@ -27,20 +27,24 @@ Proyek ini adalah tentang pendeteksian dini gangguan kesehatan mental yang diala
 
 ## Library
 ``bash
+
 Proyek ini menggunakan librari python berikut:
+
 - Pandas
 - Numpy
 - Scikit-learn
 - TensorFlow
 - Matploblib
 - Seaborn
-Sumber
+
+
+## Sumber
 Kaggle
 Data Source
 Memulai Program
 Kebutuhan
 
-Pastikan telah meng-install kebutuhan berikut:
+## Pastikan telah meng-install kebutuhan berikut:
 ``bash
 Python: versi 3.10.
 Jupyter Notebook
@@ -51,7 +55,7 @@ TensorFlow
 Matploblib
 Seaborn
 
-Kontribusi
+## Kontribusi
 ``bash
 Berikut ada role dari kelompok 15:
 
@@ -60,7 +64,7 @@ Nabilatul Hapidoh: Data Engineer
 Rayhan Dhafi: Design Researcher
 Akbar Widianto: Machine Learning Operations
 
-Ucapan Terima Kasih
+## Ucapan Terima Kasih
 ``bash
 Allah SWT.
 Orang Tua
