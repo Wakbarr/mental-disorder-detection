@@ -36,35 +36,35 @@ Proyek ini menggunakan librari python berikut:
 
 
 ## Sumber
-Kaggle
-Data Source
-Memulai Program
-Kebutuhan
+* Kaggle
+* Data Source
+* Memulai Program
 
-## Pastikan telah meng-install kebutuhan berikut:
-Python: versi 3.10.
-Jupyter Notebook
-Pandas
-Numpy
-Scikit-Learn
-TensorFlow
-Matploblib
-Seaborn
+## Kebutuhan
+Pastikan telah meng-install kebutuhan berikut:
+* Python: versi 3.10.
+* Jupyter Notebook
+* Pandas
+* Numpy
+* Scikit-Learn
+* TensorFlow
+* Matploblib
+* Seaborn
 
 ## Kontribusi
 Berikut ada role dari kelompok 15:
 
-Muhammad Lutfi Amin Ghifarullah: Machine Learning Engineer
-Nabilatul Hapidoh: Data Engineer
-Rayhan Dhafi: Design Researcher
-Akbar Widianto: Machine Learning Operations
+* Muhammad Lutfi Amin Ghifarullah: Machine Learning Engineer
+* Nabilatul Hapidoh: Data Engineer
+* Rayhan Dhafi: Design Researcher
+* Akbar Widianto: Machine Learning Operations
 
 ## Ucapan Terima Kasih
-Allah SWT.
-Orang Tua
-Arifian Saputra
-Ichsan Takwa
-Anggota Kelompok 15
+* Allah SWT.
+* Orang Tua
+* Arifian Saputra
+* Ichsan Takwa
+* Anggota Kelompok 15
 
 
 
